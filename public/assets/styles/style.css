@@ -13,7 +13,7 @@ header{
     z-index: 1000;
 }
 nav{
-    background: black;
+    background: white;
     height: 80px;
     width: 100%;
 }
@@ -23,8 +23,8 @@ nav li{
     margin-right: 20px;
 }
 nav li h3{
-    color: #fff;
-    font-weight: 0,700;
+    color: #8CBA2F;
+    font-weight: 900;
     padding: 0px 30px;
     border-radius: 3px;
     text-transform: capitalize;
@@ -44,7 +44,8 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #fff;
+    color: #000000;
+    font-weight: 700;
     padding: 7px 13px;
     border-radius: 10px;
     text-transform: capitalize;
@@ -53,7 +54,7 @@ nav ul li a{
 li a:hover{
     background: #fff;
     transition: 500ms;
-    color: black;
+    color: greenyellow;
 }
 
 section.banner{
@@ -84,7 +85,7 @@ section.banner{
 
 h1{
     font-size: min(5rem, 5vw);
-    color: black;
+    color: white;
 }
 
 /*SECCIÓN SLOGAN*/
@@ -100,12 +101,12 @@ h1{
 }
 .subSlogan h2{
     font-size: 2rem;
-    font-weight: 0,700;
+    font-weight: 700;
     padding-bottom: 1rem;
 }
 .subSlogan a{
     line-height: 10px;
-    background-color: black;
+    background-color: saddlebrown;
     margin: 0 50px;
     display: flex;
     float: right;

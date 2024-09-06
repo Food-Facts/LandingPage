@@ -1,4 +1,4 @@
-# Nutrir
+# Food-Facts
 
 ## Descripción del Proyecto
 Descubre la información nutricional de alimentos procesados y protege tu salud.
@@ -31,7 +31,7 @@ Nutrir está en constante evolución. Si tienes sugerencias, comentarios o desea
 
 ## Contacto
 
-Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarnos a través de [nuestro correo electrónico](mailto:support@nutrir.com).
+Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarnos a través de [nuestro correo electrónico](mailto:support@foodFacts.com).
 
 ## Tecnologías Utilizadas
 - HTML
