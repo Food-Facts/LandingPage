@@ -4,11 +4,11 @@
 Descubre la información nutricional de alimentos procesados y protege tu salud.
 
 ## Autores
+- [Ernesto Casaverde](https://github.com/ErnestGreenhouse) (U20221B657)
+- [Michael Quispe](https://github.com/MQRF123) (U20221E734)
 - [Sebastian Ramos](https://github.com/DazzliBoy) (U202222846)
-- [ ]() ()
-- [ ]() ()
-- [ ]() ()
-- [ ]() ()
+- [Abraam Acosta](https://github.com/abraam16) (U202219199)
+- [Melina Santillan](https://github.com/melinaasantillan) (U202216058)
 
 ## Segmentos Objetivo
 - Padres de Familia
@@ -42,7 +42,7 @@ Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarnos a través 
 - jQuery
 
 ## Enlace a la Demo
-[Nutrir Demo]()
+[Food-Facts Demo](https://food-facts.github.io/LandingPage/)
 
 ---
 
