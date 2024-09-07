@@ -46,4 +46,4 @@ Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarnos a través 
 
 ---
 
-Esperamos que Nutrir mejore tu calidad de vida ayudándote a gestionar tu alimentación de manera efectiva y sencilla.
+Esperamos que Food-Facts mejore tu calidad de vida ayudándote a gestionar tu alimentación de manera efectiva y sencilla.
