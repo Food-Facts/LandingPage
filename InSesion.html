@@ -22,7 +22,14 @@
         <form action="" class="main_form">
             <input type="text" placeholder="Usuario" class="main_input">
             <input type="password" placeholder="Contraseña" class="main_input">
-            <input type="submit" value="Inicio Sesión" class="main_input main_input--send">
+            <input type="submit" value="Inicio Sesión" class="main_input main_input--send" id="loginButton">
+
+            <script>
+              document.getElementById('loginButton').addEventListener('click', function() {
+                window.open('https://food-facts-vf.vercel.app/products', '_blank');
+              });
+            </script>
+
         </form>
 
         <article class="main_social">
